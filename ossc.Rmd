@@ -1,0 +1,32 @@
+---
+title: "Open Source Software Component Manangement in a regulated Environment"
+author: "Stefan J. Schmidt"
+date: "`r Sys.Date()`"
+output:
+  beamer_presentation: default
+  slidy_presentation: default
+  ioslides_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## What is Open Source Software?
+
+- software that is freely available in its source code
+- published under an open source license (GPL, MIT, BSD, LGPL, Apache...)
+- examples: R and Python
+
+
+## OSS Components
+
+- R: packages, Python: modules
+- contributed by community members
+- R: not *base* or *recommended* packages, but *contributed*
+
+
+## Internally vs. externally developed components
+
+- 
+
